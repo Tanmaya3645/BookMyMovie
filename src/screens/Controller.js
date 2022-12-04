@@ -6,6 +6,7 @@ const Controller = () => {
   return (
     <Fragment>
       <Header></Header>
+      <Home></Home>
     </Fragment>
   );
 };
